@@ -1,0 +1,23 @@
+// GENERAL THINGS
+
+$main-font: 'Lato', sans-serif;
+$color-white: #F5F5F5;
+
+// STRIPES COLORS
+
+$color-block1: #244F75;
+$color-block2: #60BFBF;
+$color-block3: #8C4B7E;
+$color-block4: #F8BB44;
+$color-block5: #F24B4B;
+
+$color-stripes: $color-block1, $color-block2, $color-block3, $color-block4, $color-block5;
+$color-stripe-length: length($color-stripes);
+
+// STRIPES ANIMATIONS
+
+$translate0: translate3d(0, 0, 0);
+$translate1: translate3d(-100%, 0, 0);
+$translate2: translate3d(0, 100%, 0);
+$translate3: translate3d(0, -100%, 0);
+$translate4: translate3d(100%, 0, 0);
