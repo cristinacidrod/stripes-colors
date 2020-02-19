@@ -2,7 +2,7 @@
 
 Animation of colored strips made with SASS to practice with this scripting language preprocessor that compiles in CSS.
 
-// IT ACADEMY
+// **IT ACADEMY**
 
 ## Try it!
 
