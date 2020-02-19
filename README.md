@@ -1,6 +1,6 @@
 # Stripes Colors
 
-Animation of colored strips made with SASS to practice with this scripting language preprocessor that compiles in CSS.
+Animation of colored strips made with SASS to practice with this scripting language preprocessor of CSS.
 
 // *IT ACADEMY*
 
@@ -12,7 +12,7 @@ Link: https://cristinacidrod.github.io/stripes-colors/
 
 * HTML
 * SASS
-* CSS
+* Compiled CSS
 
 ---
 
